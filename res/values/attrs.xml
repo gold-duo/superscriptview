@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SuperscriptView">
+        <attr name="rightEdge" format="dimension" />
+        <attr name="leftEdge" format="dimension" />
+        <attr name="topEdge" format="dimension" />
+        <attr name="smallLeftEdge" format="dimension" />
+        <attr name="smallRightEdge" format="dimension" />
+        <attr name="smallTopEdge" format="dimension" />
+        <attr name="gravity">
+            <flag name="leftTop" value="1" />
+            <flag name="rightTop" value="2" />
+        </attr>
+    </declare-styleable>
+
+</resources>
